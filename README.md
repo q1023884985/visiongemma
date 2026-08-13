@@ -104,3 +104,4 @@
 ## 友情链接
 
 - [爱AI工具库](https://www.2ai.cn/)
+- [doforai - 发现最佳人工智能工具](https://doforai.tools/)
