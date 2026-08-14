@@ -52,10 +52,10 @@
 [前往 Releases 页面下载 v1.0.0](https://github.com/q1023884985/visiongemma/releases)
 
 > 安装包：VisionGemma-Vulkan.zip
-> SHA256：\f1d61d205ed2308a0e2b9257f5775e7b1a2f75b45a126ca4af797ae5b2eb641c
+> SHA256：\1DC26CB187923764C4CA03A8A852493081D123C9680B803FAE73CF560B640967
 ### 夸克网盘镜像（国内用户加速）
 
-[夸克网盘下载 VisionGemma-Vulkan.zip](https://pan.quark.cn/s/6148db284ee2)
+[夸克网盘下载 VisionGemma-Vulkan.zip](https://pan.quark.cn/s/0137ca6fb214)
 
 ## 快速开始
 
